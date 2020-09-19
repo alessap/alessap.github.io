@@ -1,3 +1,3 @@
 # Alessandro Pirrotta
 
-mailto:alessandro@pirrotta.xyz
+e-mail: alessandro@pirrotta.xyz
