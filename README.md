@@ -1,2 +1,3 @@
-# pirrotta.xyz
-my website
+# Alessandro Pirrotta
+
+mailto:alessandro@pirrotta.xyz
