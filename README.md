@@ -2,4 +2,4 @@
 
 e-mail: alessandro@pirrotta.xyz
 
-website: cv.pirrotta.xyz
+website: pirrotta.xyz
